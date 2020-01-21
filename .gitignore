@@ -1,0 +1,17 @@
+**/build/
+**/*.class
+**/.settings/
+**/MANIFEST.MF
+**/.apt_generated/
+**/WebContent/WEB-INF/classes/
+**/bin/
+**/.project
+**/.classpath
+**/.factorypath
+.metadata
+/**/target/*
+**/node_modules/
+**/dist/
+**/bower_components/
+**/.sass-cache/
+**/.tmp/
